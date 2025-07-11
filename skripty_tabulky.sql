@@ -35,8 +35,7 @@ CREATE TABLE t_igor_domeny_project_SQL_primary_final AS
       cp2.payroll_year 
    ORDER BY
       cp2.payroll_year
-)
-;
+);
 
 CREATE TABLE t_igor_domeny_project_SQL_secondary_final AS 
 (
@@ -56,6 +55,4 @@ CREATE TABLE t_igor_domeny_project_SQL_secondary_final AS
    ORDER BY
       c.country,
       e.year 
-)
-;
-
+);
