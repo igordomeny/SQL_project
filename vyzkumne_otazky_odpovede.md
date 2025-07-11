@@ -14,8 +14,8 @@ Vo všeobecnosti je trend v mzdách v rámci jednotlivých kategorii rastúci, a
 
 #### **Výzkumná otázka 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**  
 **Odpověď:**  
-V roku 2006 je možné koupit  *1408.76 litru mleka a 1261.94 kg chleba*
-V roku  2018 je možné koupit *1613.55 litru mleka a 1319.33 kg chleba*
+V roku **2006** je možné koupit  *1408.76 litru mleka a 1261.94 kg chleba*
+V roku  **2018** je možné koupit *1613.55 litru mleka a 1319.33 kg chleba*
 
 ---
 
