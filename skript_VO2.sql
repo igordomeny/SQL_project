@@ -1,7 +1,7 @@
 SELECT
    t.rok,
    t.kategorie,
-   round(AVG(t.prum_mzda) / AVG(t.prum_cena), 2) vysledok 
+   ROUND(AVG(t.prum_mzda) / AVG(t.prum_cena), 2) vysledok 
 FROM
    t_igor_domeny_project_sql_primary_final t 
 GROUP BY
